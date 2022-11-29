@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669752033 source:c:\users\maquina 09\desktop\ana 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
